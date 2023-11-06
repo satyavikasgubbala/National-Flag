@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.orange
+{
+    background-color: orange;
+    height: 200px;
+    width: 100%;
+
+}
+.white
+{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+}
+
+.green
+{
+    background-color: green;
+    height: 200px;
+    width: 100%;
+}
+.img
+{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 550px;
+}
